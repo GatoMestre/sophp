@@ -1,4 +1,4 @@
 <?php
 
-        echo "Hello World!";
+        echo "Checker Geradas All Bin!";
 ?>
